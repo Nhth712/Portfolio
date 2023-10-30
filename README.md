@@ -1,7 +1,4 @@
 #### Welcome to this site. Nice to meet you.
-##### - Website: 
-
-``` nhth712.github.io/Portfolio ```
 
 ##### - Reference:
 
