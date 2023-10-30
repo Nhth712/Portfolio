@@ -1,12 +1,12 @@
 #### Welcome to this site. Nice to meet you.
-##### Website: 
+##### - Website: 
 
 ``` nhth712.github.io/Portfolio ```
 
-##### Reference:
+##### - Reference:
 
-###### Video hướng dẫn:
+###### + Video hướng dẫn:
 ``` youtube.com/watch?v=3t2H8aqOkeQ ```
 
-###### Git:
+###### + Git:
 ``` w3schools.com/git/default.asp?remote=github (Nguồn: Cô Quyên) ```
